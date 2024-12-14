@@ -1,0 +1,78 @@
+Goal:
+
+I was very inspired by the Archipelago implementation for Kingdom Hearts 2 when deciding what the goal would be! Your goal is to collect the seven Command Boards which act as Proofs! Once you’ve collected all seven, you can use them to open up The Keyblade Graveyard and finish the game!
+
+And of course you can also aim for 100% completion! 😈
+
+Mechanics:
+
+All commands and abilities you start the game with are excluded from the item pool!
+
+Commands that you have in the game but have not received in the apworld yet cannot be added to your Command Deck! However, you can instead level up your commands on The Command Board and use them for command melding!
+
+Some Command Melding checks can also be acquired from the Command Shop and item drops! Keep in mind that this doesn't apply to other categories!
+
+If your Command Meld results in a command with an ability, the location can be checked but it does not allow you to equip that ability until you receive the corresponding item! This applies even if you’ve already received the command it’s attached to!
+
+Ability levels do not have to be obtained in order! The reason they're numbered is so that each level can be a different location to check!
+
+Once you have all the Flavors used to create a specific Ice Cream, that unlocks the ability to purchase it! Meanwhile the Ice Cream itself unlocks the ability to use them in the Command Deck!
+
+You can use any of the commands that a D-Link has while using it, even if you don't have those commands as items yet!
+
+Maps are included as items because there’s an option to hide them in the config menu! It’s up to you whether or not to engage with this element of the randomizer!
+
+Stickers can only be placed in the Sticker Album once you’ve received them in the apworld!
+
+Both Superbosses can be fought by skipping the Goal button until after you’ve defeated them!
+
+Progression:
+
+Items in this manual are progressive! Every item you collect permanently gives you one use of it per battle! The start of a battle is marked by the information bar appearing alongside dynamic camera angles of you and the enemies, and the end of the battle is marked by the screen slowing down and fading to white! Items are added to your Command Deck in sets so do your best not to use any extras you brought with you! Collecting all of a specific item lets you use as many of them as you want! Item drops and the Command Shop do not count towards your item total or give you any uses of them! Here are the total number of items for Terra:
+
+Potion: 8
+Hi-Potion: 12
+Mega-Potion: 8
+Ether: 5
+Mega-Ether: 2
+Panacea: 3
+Elixir: 3
+Megalixir: 3
+Balloon Letter: 3
+
+Crystals are also progressive! Every crystal you collect gives you three uses of it for Command Melding! Collecting all of a specific crystal lets you use as many of them as you want! Item drops and the Medal Shop do not count towards your crystal total or give you any uses of them! Here are the total number of crystals for Terra:
+
+Shimmering Crystal: 2
+Fleeting Crystal: 3
+Pulsing Crystal: 8
+Wellspring Crystal: 2
+Soothing Crystal: 3
+Hungry Crystal: 2
+Abounding Crystal: 3
+Chaos Crystal: 5
+
+Customization:
+
+This manual features the ability to exclude item and location categories from the apworld! Simply swap the 0 and 50 with each other and you're good to go!
+
+You can choose to exclude the following categories from the apworld:
+
+Commands
+Items
+Actions
+Shotlocks
+Keyblades
+Abilities
+D-Links
+Finishers
+Mirage Arena
+Mini-Games
+Unversed Missions
+Superbosses
+Ice Cream
+Command Melding
+Stickers
+The Command Board
+Maps
+
+Keep in mind that with this many options, not all of them will work together! Make sure to do a test gen with your yaml file before using it for any multi-worlds!
